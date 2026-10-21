@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
 Hola profesor
 
 Nuevo contenido en notas
+=======
+Buienvenido de nuevo
+>>>>>>> 8244228 (Bienvenido de nuevo usuario)
